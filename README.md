@@ -26,7 +26,7 @@
 ## 📂 Структура проекту
 
 ```text
-population_dashboard/
+population_stat/
 ├── docker-compose.yml   # Налаштування сервісів (db + app)
 ├── Dockerfile           # Інструкція збірки Python-додатку
 ├── requirements.txt     # Залежності Python
