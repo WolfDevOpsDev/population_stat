@@ -1,0 +1,8 @@
+streamlit
+pandas
+psycopg2-binary
+requests
+beautifulsoup4
+lxml
+plotly
+pycountry
