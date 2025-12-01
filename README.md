@@ -43,8 +43,8 @@ population_dashboard/
 ### 1. Клонування репозиторію
 
 ```bash
-git clone <your-repo-url>
-cd population_dashboard
+git clone https://github.com/WolfDevOpsDev/population_stat
+cd population_stat
 ```
 
 ### 2. Запуск проєкту
